@@ -1,0 +1,26 @@
+Verschiedene News Seiten crawlen (Spiegel, Focus, Wirtschaftswoche)
+
+Schlagworte extrahieren
+Überschriften extrahieren
+Text Themenbereich klassifizieren
+
+User als Zusammenfassung mit Link anzeigen
+Was der User klickt, interessiert ihn, der Themenbereich ist also für den Benutzer wichtig
+Der Themenbereich wird in Zukunft stärker repräsentiert
+
+
+Zwei Klassifikationen
+
+	Themenbereich (Textklassifikation)
+		Händisch klassifizierte Artikel
+		Häufigkeitsanalyse der Wörter
+		Klassifikation unbekannter Artikel
+
+	Userpräferenzen (Rankingverfahren)
+		Geklickte Links sind wichtig für den Benutzer, ignorierte Links interessieren den Benutzer nicht (direktes Feedback)
+		Einfaches Rankingverfahren basierend auf dem Themenbereich des Artikels
+		Neue Artikel aus häufig gelesenen Themenbereichen werden zuerst angezeigt
+
+
+
+
