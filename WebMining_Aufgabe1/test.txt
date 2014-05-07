@@ -1,0 +1,13 @@
+Die frühesten Vorläufer des Sudoku waren die lateinischen Quadrate („carré latin“) des Schweizer Mathematikers Leonhard Euler (1707–1783). Anders als Sudokus waren diese jedoch nicht in Blöcke (Unterquadrate) unterteilt.
+
+Von 1892 bis zum Ausbruch des Ersten Weltkrieges publizierten die französischen Zeitungen Le Siècle und La France regelmäßig Rätselquadrate unter dem Titel: „Carré magique diabolique“. Diese frühen Publikationen setzten sich auf Dauer nicht durch. Ihnen fehlte ebenfalls die Unterteilung in Unterblöcke.
+
+Das heutige Sudoku mit Einbeziehung der Blöcke (neben Zeilen und Spalten) wurde erstmals im Jahr 1979 anonym von dem damals 74-jährigen Architekten und freischaffenden „Rätselonkel“ Howard Garns[1] in der Zeitschrift Dell Pencil Puzzles & Word Games (engl. Bleistifträtsel & Wortspiele) als: „Number Place“ (engl. Zahlenplatz) veröffentlicht.[2][3]
+
+Die ersten Sudokus wurden zwar in den Vereinigten Staaten publiziert, seinen Durchbruch erlebte das Zahlenrätsel jedoch erst zwischen 1984 und 1986, als die japanische Zeitschrift Nikoli es zunächst unter dem Namen: „Suji wa dokushin ni kagiru“ (dt. etwa: „Isolieren Sie die Zahlen; die Zahlen dürfen nur einmal vorkommen“) regelmäßig abdruckte. Im Jahr 1986 wurde diese sperrige Bezeichnung vom Herausgeber Maki Kaji unter Beibehaltung der jeweils ersten Kanji-Zeichen zu „Sudoku“ (??, sudoku) verkürzt und als Marke registriert,[4] deshalb werden selbst heute noch diese Rätsel in manchen japanischen Zeitschriften unter dem englischen Begriff: „Number Place“ oder seiner Entsprechung in Katakana (????????) abgedruckt; auch die Bezeichnung als „Nanpure“ (????, u. a. als Spiel für Sonys PlayStation) ist teilweise üblich.[2]
+
+Der Neuseeländer Wayne Gould lernte Sudoku auf einer Japanreise kennen und entwickelte innerhalb von sechs Jahren eine Software, die neue Sudokus per Knopfdruck erzeugen konnte. Anschließend bot er seine Rätsel der Times in London an. Die Tageszeitung druckte die ersten Sudoku-Rätsel und trug dadurch zur Verbreitung der Rätsel bei.
+
+In Deutschland und Österreich führte der regelmäßige Abdruck in Tageszeitungen und Fernsehzeitschriften seit Ende 2005 zu einer raschen Verbreitung. Das Prinzip des Rätsels unterliegt nicht dem Urheberrecht. Somit sind keine Gebühren an einen Lizenznehmer zu entrichten. Sudokus können jederzeit frei erstellt und veröffentlicht werden.
+
+Seit Ende 2005 sind tragbare elektronische Sudoku-Geräte erhältlich. Des Weiteren gibt es Sudoku als einfaches Brettspiel und interaktiv online (Internet) sowie offline als Computerspiel. Das erste Computerspiel wurde bereits im Jahr 1989 von Softdisk unter dem Label Loadstar/Softdisk Publishing, Inc. für den C64 mit dem Namen Digithunt herausgebracht.
